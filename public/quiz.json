@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, tầng lớp thanh niên được xác định có vị trí như thế nào trong cơ cấu xã hội - giai cấp?",
+    "options": [
+      "Là bộ phận cấu thành hữu cơ, cơ bản và là lực lượng nòng cốt làm nên 'bộ khung' của xã hội.",
+      "Là một nhóm xã hội phụ trợ, không thuộc các tầng lớp cơ bản cấu thành hệ thống.",
+      "Là một nhóm chỉ được phân chia đơn thuần theo độ tuổi sinh học, không có vị trí chính trị.",
+      "Là tầng lớp xã hội độc lập, hoạt động tách biệt khỏi khối liên minh công - nông - trí."
+    ],
+    "correct": 0,
+    "hint": "Thanh niên cùng với công nhân, nông dân, trí thức... được chỉ đích danh là những tầng lớp và nhóm xã hội cơ bản nhất cấu thành nên thực thể này."
+  },
+  {
+    "id": 2,
+    "question": "Vì sao sự vận động của tầng lớp thanh niên lại có khả năng tác động mạnh mẽ và làm biến đổi các loại hình cơ cấu xã hội khác?",
+    "options": [
+      "Vì thanh niên có số lượng đông đảo nhất trong các nhóm dân cư.",
+      "Vì thanh niên là bộ phận cốt lõi của cơ cấu xã hội - giai cấp, vốn là loại hình cơ cấu giữ vị trí quan trọng hàng đầu và chi phối các cơ cấu khác.",
+      "Vì thanh niên có khả năng di cư và thay đổi nghề nghiệp nhanh hơn các nhóm khác.",
+      "Vì thanh niên luôn đi đầu trong các xu hướng văn hóa và tiêu dùng mới."
+    ],
+    "correct": 1,
+    "hint": "Cơ cấu xã hội - giai cấp liên quan trực tiếp đến quyền lực chính trị và chi phối toàn bộ đời sống xã hội; thanh niên là hạt nhân của cơ cấu này."
+  },
+  {
+    "id": 3,
+    "question": "Vai trò xung kích của thanh niên trong thời đại ngày nay gắn liền mật thiết với lĩnh vực nào?",
+    "options": [
+      "Duy trì các phương thức sản xuất thủ công truyền thống.",
+      "Tập trung chủ yếu vào các hoạt động cứu trợ xã hội tự phát.",
+      "Nuôi dưỡng ước mơ, hoài bão, sáng tạo và làm chủ khoa học, công nghệ hiện đại.",
+      "Chỉ tham gia vào công tác quản lý hành chính nhà nước."
+    ],
+    "correct": 2,
+    "hint": "Sức trẻ và khả năng tiếp cận nhanh nhạy giúp thanh niên trở thành hạt nhân quan trọng nhất trong nền kinh tế tri thức."
+  },
+  {
+    "id": 4,
+    "question": "Trách nhiệm chính trị quan trọng nhất của thanh niên và sinh viên trong khối đại đoàn kết toàn dân là gì?",
+    "options": [
+      "Đóng góp tài chính cho các quỹ phát triển cộng đồng.",
+      "Góp phần củng cố khối liên minh giữa các giai cấp, tầng lớp dưới sự lãnh đạo của Đảng.",
+      "Thực hiện các hoạt động tình nguyện quốc tế định kỳ.",
+      "Tham gia vào các tổ chức xã hội dân sự ngoài hệ thống chính trị."
+    ],
+    "correct": 1,
+    "hint": "Thanh niên là cầu nối quan trọng gắn kết các giai tầng và bảo vệ vững chắc chế độ chính trị xã hội chủ nghĩa."
+  },
+  {
+    "id": 5,
+    "question": "Mục tiêu quan trọng nhất của việc giáo dục lý luận chính trị - xã hội một cách khoa học cho thế hệ trẻ là gì?",
+    "options": [
+      "Giúp thanh niên đạt đủ điều kiện để tốt nghiệp các cấp học.",
+      "Xây dựng lối sống thực dụng và tư duy kinh tế thị trường tự do.",
+      "Củng cố niềm tin vững chắc vào chủ nghĩa xã hội và bảo vệ thanh niên trước các âm mưu 'diễn biến hòa bình'.",
+      "Khuyến khích thanh niên tham gia vào các đảng phái chính trị đa dạng."
+    ],
+    "correct": 2,
+    "hint": "Việc giáo dục chính trị nhằm xây dựng đạo đức, lý tưởng cách mạng và bản lĩnh chống lại sự thoái hóa, dao động."
+  },
+  {
+    "id": 6,
+    "question": "Nhà nước đề ra chính sách kiến tạo 'hệ sinh thái' cho thanh niên nhằm mục đích gì?",
+    "options": [
+      "Để quản lý chặt chẽ mọi hoạt động vui chơi của thanh niên.",
+      "Tạo môi trường thuận lợi để thế hệ trẻ học tập, nghiên cứu, lao động và phát triển toàn diện cả trí tuệ, kỹ năng và thể lực.",
+      "Chỉ để phát triển các tài năng trong lĩnh vực thể thao và nghệ thuật.",
+      "Nhằm tách biệt thanh niên khỏi các áp lực từ thị trường lao động."
+    ],
+    "correct": 1,
+    "hint": "Chính sách hướng tới sự phát triển toàn diện để thanh niên có đủ năng lực gánh vác sứ mệnh lịch sử nặng nề."
+  },
+  {
+    "id": 7,
+    "question": "Hình thức liên minh nào được tài liệu nhấn mạnh là đặc biệt quan trọng để tập hợp sức mạnh tuổi trẻ?",
+    "options": [
+      "Liên minh giữa các doanh nghiệp trẻ khởi nghiệp.",
+      "Hình thức liên minh của thế hệ trẻ thông qua Đoàn Thanh niên Cộng sản Hồ Chí Minh và Hội Liên hiệp Thanh niên Việt Nam.",
+      "Liên minh giữa thanh niên trong nước và kiều bào nước ngoài.",
+      "Liên minh giữa các nhóm thanh niên có chung sở thích giải trí."
+    ],
+    "correct": 1,
+    "hint": "Sức mạnh thanh niên cần được quy tụ và dẫn dắt thông qua các tổ chức chính trị - xã hội đại diện."
+  },
+  {
+    "id": 8,
+    "question": "Trong chiến lược xây dựng giai cấp công nhân lớn mạnh, việc xây dựng tổ chức Đoàn TNCS Hồ Chí Minh cần được thực hiện ở đâu?",
+    "options": [
+      "Chỉ tập trung tại các cơ quan quản lý nhà nước cấp trung ương.",
+      "Chỉ thành lập tại các trường đại học và cao đẳng.",
+      "Xây dựng vững mạnh ngay trong chính lòng giai cấp công nhân và các cơ sở sản xuất kinh doanh.",
+      "Chủ yếu hoạt động tại các địa phương vùng sâu vùng xa."
+    ],
+    "correct": 2,
+    "hint": "Việc xây dựng Đoàn trong doanh nghiệp giúp ươm mầm lớp thanh niên công nhân tiếp nối bản lĩnh của giai cấp lãnh đạo."
+  },
+  {
+    "id": 9,
+    "question": "Phương thức nào giúp các tổ chức Đoàn, Hội phát huy tối đa tài năng sáng tạo của tuổi trẻ?",
+    "options": [
+      "Tổ chức các kỳ thi sát hạch lý thuyết định kỳ.",
+      "Chủ động hướng dẫn các hình thức hoạt động và phát động các phong trào thi đua yêu nước.",
+      "Yêu cầu thanh niên tham gia các lớp bồi dưỡng kỹ năng bắt buộc.",
+      "Cung cấp các khoản hỗ trợ tài chính trực tiếp cho cá nhân."
+    ],
+    "correct": 1,
+    "hint": "Sức mạnh của tuổi trẻ được bùng nổ thông qua các phong trào hành động thực tiễn vì sự nghiệp xây dựng và bảo vệ Tổ quốc."
+  },
+  {
+    "id": 10,
+    "question": "Sứ mệnh lịch sử của thanh niên Việt Nam hiện nay được xác định là gì?",
+    "options": [
+      "Là lực lượng thay thế các giai cấp cũ đã lỗi thời trong sản xuất.",
+      "Là lực lượng gánh vác sứ mệnh đưa đất nước đi tới đích cuối cùng của thời kỳ quá độ lên chủ nghĩa xã hội.",
+      "Chỉ có nhiệm vụ bảo vệ biên giới và hải đảo của Tổ quốc.",
+      "Tập trung xây dựng nền kinh tế thị trường không cần định hướng xã hội chủ nghĩa."
+    ],
+    "correct": 1,
+    "hint": "Thanh niên vừa là người thừa kế, vừa là người kiến tạo tương lai của đất nước xã hội chủ nghĩa."
+  }
+]
