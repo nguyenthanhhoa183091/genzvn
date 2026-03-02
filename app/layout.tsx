@@ -8,8 +8,8 @@ const _geistMono = Geist_Mono({ subsets: ["latin", "latin-ext"] });
 
 export const metadata: Metadata = {
   title: 'Thanh niên Việt Nam',
-  description: 'Thanh niên là ủy bộ bền quan trọng trong có cấu xã hội - giải cầu',
-  generator: 'v0.app',
+  description: 'Thanh niên Việt Nam',
+  generator: 'GenZVN',
   icons: {
     icon: [
       {
