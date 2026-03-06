@@ -54,7 +54,7 @@ export default function Footer() {
               </h4>
               <ul className="text-sm space-y-3">
                 {[
-                  { label: 'Nguồn dẫn chứng', href: '/privacy' },
+                  { label: 'Thành viên và nguồn dẫn chứng', href: '/privacy' },
                   { label: 'Minh chứng AI', href: '/terms' },
                   // { label: 'Hỗ Trợ', href: '/support' },
                 ].map((item) => (

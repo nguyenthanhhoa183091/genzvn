@@ -7,9 +7,9 @@ export default function HeroSection() {
   ];
 
   return (
-    <section className="relative bg-gradient-to-b from-sky-100 to-white py-16 md:py-28 overflow-hidden">
+    <section className="relative bg-gradient-to-b from-sky-100 to-blue-950 dark:from-gray-900 dark:to-black overflow-hidden pt-15">
       <div className="max-w-7xl mx-auto px-4">
-        <div className="flex flex-col lg:flex-row items-center gap-16">
+        <div className="flex flex-col lg:flex-row items-start gap-16">
           
           {/* Central Image Area - Tăng chiều cao tổng thể */}
           <div className="flex-1 relative h-[500px] md:h-[600px] flex items-center justify-center">
@@ -20,7 +20,7 @@ export default function HeroSection() {
               {/* Trái tim trung tâm */}
               <div className="relative z-20 w-full h-full animate-breathe">
                 <img 
-                  src="/heart.png" 
+                  src="header/heart.png" 
                   alt="Central Heart" 
                   className="w-full h-full object-contain drop-shadow-[0_20px_50px_rgba(0,0,0,0.3)]"
                 />
@@ -49,16 +49,21 @@ export default function HeroSection() {
           </div>
 
           {/* Hero Content - Thay bằng ảnh */}
-          <div className="flex-1 z-30 ml-12">
-            <img
-              src="/header/1.jpg"
-              alt="Hero Content"
-              className="w-full h-auto rounded-2xl shadow-2xl object-cover"
-            />
-          </div>
+{/* Hero Content - Phần ảnh Thanh Niên Trong Cơ Cấu XH */}
+<div className="flex-1 z-30 ml-12 h-[500px] md:h-[600px] flex items-start justify-center pt-16 md:pt-24">
+  {/* - items-start: Đặt ảnh lên đầu container
+      - pt-16 md:pt-24: Đẩy ảnh xuống một khoảng cụ thể để bằng với khối bên trái
+  */}
+  <img
+    src="/header/thanhnientrongcocauxh.png"
+    alt="Hero Content"
+    className="w-full h-auto rounded-2xl shadow-2xl object-cover"
+  />
+</div>
 
         </div>
       </div>
-    </section>
+
+          </section>
   );
 }

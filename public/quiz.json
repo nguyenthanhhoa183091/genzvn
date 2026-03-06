@@ -1,122 +1,242 @@
 [
   {
     "id": 1,
-    "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, tầng lớp thanh niên được xác định có vị trí như thế nào trong cơ cấu xã hội - giai cấp?",
+    "question": "Yếu tố nào giữ vị trí trung tâm trong hệ thống cơ cấu xã hội?",
     "options": [
-      "Là bộ phận cấu thành hữu cơ, cơ bản và là lực lượng nòng cốt làm nên 'bộ khung' của xã hội.",
-      "Là một nhóm xã hội phụ trợ, không thuộc các tầng lớp cơ bản cấu thành hệ thống.",
-      "Là một nhóm chỉ được phân chia đơn thuần theo độ tuổi sinh học, không có vị trí chính trị.",
-      "Là tầng lớp xã hội độc lập, hoạt động tách biệt khỏi khối liên minh công - nông - trí."
+      "Cơ cấu xã hội - dân cư",
+      "Cơ cấu xã hội - nghề nghiệp",
+      "Cơ cấu xã hội - giai cấp",
+      "Cơ cấu xã hội - dân tộc"
     ],
-    "correct": 0,
-    "hint": "Thanh niên cùng với công nhân, nông dân, trí thức... được chỉ đích danh là những tầng lớp và nhóm xã hội cơ bản nhất cấu thành nên thực thể này."
+    "correct": 2,
+    "hint": "Liên quan trực tiếp đến quan hệ sản xuất và quyền lực chính trị."
   },
   {
     "id": 2,
-    "question": "Vì sao sự vận động của tầng lớp thanh niên lại có khả năng tác động mạnh mẽ và làm biến đổi các loại hình cơ cấu xã hội khác?",
+    "question": "Biến đổi của cơ cấu xã hội - giai cấp bị quy định bởi yếu tố nào?",
     "options": [
-      "Vì thanh niên có số lượng đông đảo nhất trong các nhóm dân cư.",
-      "Vì thanh niên là bộ phận cốt lõi của cơ cấu xã hội - giai cấp, vốn là loại hình cơ cấu giữ vị trí quan trọng hàng đầu và chi phối các cơ cấu khác.",
-      "Vì thanh niên có khả năng di cư và thay đổi nghề nghiệp nhanh hơn các nhóm khác.",
-      "Vì thanh niên luôn đi đầu trong các xu hướng văn hóa và tiêu dùng mới."
+      "Cơ cấu dân số",
+      "Cơ cấu kinh tế",
+      "Địa giới hành chính",
+      "Giao lưu văn hóa"
     ],
     "correct": 1,
-    "hint": "Cơ cấu xã hội - giai cấp liên quan trực tiếp đến quyền lực chính trị và chi phối toàn bộ đời sống xã hội; thanh niên là hạt nhân của cơ cấu này."
+    "hint": "Cơ cấu kinh tế nhiều thành phần quy định sự đa dạng giai cấp."
   },
   {
     "id": 3,
-    "question": "Vai trò xung kích của thanh niên trong thời đại ngày nay gắn liền mật thiết với lĩnh vực nào?",
+    "question": "Giai cấp nào lãnh đạo khối liên minh tại Việt Nam?",
     "options": [
-      "Duy trì các phương thức sản xuất thủ công truyền thống.",
-      "Tập trung chủ yếu vào các hoạt động cứu trợ xã hội tự phát.",
-      "Nuôi dưỡng ước mơ, hoài bão, sáng tạo và làm chủ khoa học, công nghệ hiện đại.",
-      "Chỉ tham gia vào công tác quản lý hành chính nhà nước."
+      "Giai cấp nông dân",
+      "Đội ngũ trí thức",
+      "Giai cấp công nhân",
+      "Đội ngũ doanh nhân"
     ],
     "correct": 2,
-    "hint": "Sức trẻ và khả năng tiếp cận nhanh nhạy giúp thanh niên trở thành hạt nhân quan trọng nhất trong nền kinh tế tri thức."
+    "hint": "Thông qua đội tiền phong là Đảng Cộng sản Việt Nam."
   },
   {
     "id": 4,
-    "question": "Trách nhiệm chính trị quan trọng nhất của thanh niên và sinh viên trong khối đại đoàn kết toàn dân là gì?",
+    "question": "Nguyên tắc cao nhất của chuyên chính vô sản theo Lênin là gì?",
     "options": [
-      "Đóng góp tài chính cho các quỹ phát triển cộng đồng.",
-      "Góp phần củng cố khối liên minh giữa các giai cấp, tầng lớp dưới sự lãnh đạo của Đảng.",
-      "Thực hiện các hoạt động tình nguyện quốc tế định kỳ.",
-      "Tham gia vào các tổ chức xã hội dân sự ngoài hệ thống chính trị."
+      "Thống trị tuyệt đối",
+      "Liên minh công - nông",
+      "Bạo lực cách mạng",
+      "Xóa bỏ tư hữu"
     ],
     "correct": 1,
-    "hint": "Thanh niên là cầu nối quan trọng gắn kết các giai tầng và bảo vệ vững chắc chế độ chính trị xã hội chủ nghĩa."
+    "hint": "Là cơ sở sức mạnh để bảo vệ và xây dựng chế độ mới."
   },
   {
     "id": 5,
-    "question": "Mục tiêu quan trọng nhất của việc giáo dục lý luận chính trị - xã hội một cách khoa học cho thế hệ trẻ là gì?",
+    "question": "Nội dung nào quyết định sự bền vững nhất của liên minh?",
     "options": [
-      "Giúp thanh niên đạt đủ điều kiện để tốt nghiệp các cấp học.",
-      "Xây dựng lối sống thực dụng và tư duy kinh tế thị trường tự do.",
-      "Củng cố niềm tin vững chắc vào chủ nghĩa xã hội và bảo vệ thanh niên trước các âm mưu 'diễn biến hòa bình'.",
-      "Khuyến khích thanh niên tham gia vào các đảng phái chính trị đa dạng."
+      "Nội dung chính trị",
+      "Nội dung kinh tế",
+      "Nội dung văn hóa",
+      "Nội dung xã hội"
     ],
-    "correct": 2,
-    "hint": "Việc giáo dục chính trị nhằm xây dựng đạo đức, lý tưởng cách mạng và bản lĩnh chống lại sự thoái hóa, dao động."
+    "correct": 1,
+    "hint": "Sự gắn kết lợi ích vật chất là nền tảng khách quan nhất."
   },
   {
     "id": 6,
-    "question": "Nhà nước đề ra chính sách kiến tạo 'hệ sinh thái' cho thanh niên nhằm mục đích gì?",
+    "question": "Đội ngũ nào là lực lượng lao động sáng tạo đặc biệt?",
     "options": [
-      "Để quản lý chặt chẽ mọi hoạt động vui chơi của thanh niên.",
-      "Tạo môi trường thuận lợi để thế hệ trẻ học tập, nghiên cứu, lao động và phát triển toàn diện cả trí tuệ, kỹ năng và thể lực.",
-      "Chỉ để phát triển các tài năng trong lĩnh vực thể thao và nghệ thuật.",
-      "Nhằm tách biệt thanh niên khỏi các áp lực từ thị trường lao động."
+      "Giai cấp công nhân",
+      "Đội ngũ trí thức",
+      "Giai cấp nông dân",
+      "Đội ngũ doanh nhân"
     ],
     "correct": 1,
-    "hint": "Chính sách hướng tới sự phát triển toàn diện để thanh niên có đủ năng lực gánh vác sứ mệnh lịch sử nặng nề."
+    "hint": "Gắn liền với kinh tế tri thức và CM công nghệ."
   },
   {
     "id": 7,
-    "question": "Hình thức liên minh nào được tài liệu nhấn mạnh là đặc biệt quan trọng để tập hợp sức mạnh tuổi trẻ?",
+    "question": "Xu hướng biến đổi của giai cấp nông dân Việt Nam hiện nay?",
     "options": [
-      "Liên minh giữa các doanh nghiệp trẻ khởi nghiệp.",
-      "Hình thức liên minh của thế hệ trẻ thông qua Đoàn Thanh niên Cộng sản Hồ Chí Minh và Hội Liên hiệp Thanh niên Việt Nam.",
-      "Liên minh giữa thanh niên trong nước và kiều bào nước ngoài.",
-      "Liên minh giữa các nhóm thanh niên có chung sở thích giải trí."
+      "Tăng nhanh số lượng",
+      "Giảm dần tỷ lệ",
+      "Trở thành giai cấp lãnh đạo",
+      "Xóa bỏ hoàn toàn tư hữu"
     ],
     "correct": 1,
-    "hint": "Sức mạnh thanh niên cần được quy tụ và dẫn dắt thông qua các tổ chức chính trị - xã hội đại diện."
+    "hint": "Do tác động của quá trình công nghiệp hóa, đô thị hóa."
   },
   {
     "id": 8,
-    "question": "Trong chiến lược xây dựng giai cấp công nhân lớn mạnh, việc xây dựng tổ chức Đoàn TNCS Hồ Chí Minh cần được thực hiện ở đâu?",
+    "question": "Nội dung chính trị của liên minh đòi hỏi giữ vững vai trò của?",
     "options": [
-      "Chỉ tập trung tại các cơ quan quản lý nhà nước cấp trung ương.",
-      "Chỉ thành lập tại các trường đại học và cao đẳng.",
-      "Xây dựng vững mạnh ngay trong chính lòng giai cấp công nhân và các cơ sở sản xuất kinh doanh.",
-      "Chủ yếu hoạt động tại các địa phương vùng sâu vùng xa."
+      "Mặt trận Tổ quốc",
+      "Đảng Cộng sản VN",
+      "Liên đoàn Lao động",
+      "Nhà nước XHCN"
     ],
-    "correct": 2,
-    "hint": "Việc xây dựng Đoàn trong doanh nghiệp giúp ươm mầm lớp thanh niên công nhân tiếp nối bản lĩnh của giai cấp lãnh đạo."
+    "correct": 1,
+    "hint": "Đảng lãnh đạo để đảm bảo định hướng xã hội chủ nghĩa."
   },
   {
     "id": 9,
-    "question": "Phương thức nào giúp các tổ chức Đoàn, Hội phát huy tối đa tài năng sáng tạo của tuổi trẻ?",
+    "question": "Mục tiêu liên minh về văn hóa - xã hội là gì?",
     "options": [
-      "Tổ chức các kỳ thi sát hạch lý thuyết định kỳ.",
-      "Chủ động hướng dẫn các hình thức hoạt động và phát động các phong trào thi đua yêu nước.",
-      "Yêu cầu thanh niên tham gia các lớp bồi dưỡng kỹ năng bắt buộc.",
-      "Cung cấp các khoản hỗ trợ tài chính trực tiếp cho cá nhân."
+      "Tăng năng suất",
+      "Xây dựng con người mới",
+      "Xóa bỏ tôn giáo",
+      "Thống nhất giai cấp"
     ],
     "correct": 1,
-    "hint": "Sức mạnh của tuổi trẻ được bùng nổ thông qua các phong trào hành động thực tiễn vì sự nghiệp xây dựng và bảo vệ Tổ quốc."
+    "hint": "Nâng cao dân trí và xây dựng hệ giá trị tinh thần mới."
   },
   {
     "id": 10,
-    "question": "Sứ mệnh lịch sử của thanh niên Việt Nam hiện nay được xác định là gì?",
+    "question": "Cơ cấu xã hội - giai cấp VN gồm các thành phần nào?",
     "options": [
-      "Là lực lượng thay thế các giai cấp cũ đã lỗi thời trong sản xuất.",
-      "Là lực lượng gánh vác sứ mệnh đưa đất nước đi tới đích cuối cùng của thời kỳ quá độ lên chủ nghĩa xã hội.",
-      "Chỉ có nhiệm vụ bảo vệ biên giới và hải đảo của Tổ quốc.",
-      "Tập trung xây dựng nền kinh tế thị trường không cần định hướng xã hội chủ nghĩa."
+      "Công nhân, nông dân, trí thức.",
+      "Chỉ công nhân và nông dân",
+      "Chủ nô và nô lệ",
+      "Địa chủ và nông dân"
+    ],
+    "correct": 0,
+    "hint": "Đa dạng theo nền kinh tế thị trường định hướng XHCN."
+  },
+  {
+    "id": 11,
+    "question": "Nội dung đấu tranh giai cấp trong thời kỳ quá độ là gì?",
+    "options": [
+      "Tiêu diệt vật chất",
+      "Chống tự phát TBCN",
+      "Giành quyền tư hữu",
+      "Xung đột vũ trang"
     ],
     "correct": 1,
-    "hint": "Thanh niên vừa là người thừa kế, vừa là người kiến tạo tương lai của đất nước xã hội chủ nghĩa."
+    "hint": "Đấu tranh giữa hai con đường XHCN và TBCN."
+  },
+  {
+    "id": 12,
+    "question": "Đội ngũ nào là 'rường cột', chủ nhân tương lai đất nước?",
+    "options": [
+      "Đội ngũ trí thức",
+      "Thế hệ thanh niên",
+      "Giai cấp công nhân",
+      "Phụ nữ Việt Nam"
+    ],
+    "correct": 1,
+    "hint": "Là lực lượng xung kích trong sự nghiệp xây dựng đất nước."
+  },
+  {
+    "id": 13,
+    "question": "Nếu không liên minh, cách mạng vô sản sẽ trở thành?",
+    "options": [
+      "Bài ca hy vọng",
+      "Bài ca đơn độc",
+      "Bài ca chiến thắng",
+      "Bài ca hòa bình"
+    ],
+    "correct": 1,
+    "hint": "Nhấn mạnh tầm quan trọng của việc tìm kiếm đồng minh."
+  },
+  {
+    "id": 14,
+    "question": "Nhiệm vụ kinh tế trọng tâm của liên minh ở VN hiện nay?",
+    "options": [
+      "Kinh tế bao cấp",
+      "Công nghiệp hóa, HĐH",
+      "Ngừng giao thương",
+      "Chỉ làm nông nghiệp"
+    ],
+    "correct": 1,
+    "hint": "Xây dựng cơ sở vật chất cho chủ nghĩa xã hội."
+  },
+  {
+    "id": 15,
+    "question": "Đặc điểm bản chất của cơ cấu giai cấp Việt Nam?",
+    "options": [
+      "Tư sản thống trị",
+      "Nông dân độc lập",
+      "Công nhân lãnh đạo",
+      "Không có trí thức"
+    ],
+    "correct": 2,
+    "hint": "Đây là đặc trưng của thể chế chính trị XHCN."
+  },
+  {
+    "id": 16,
+    "question": "Biến đổi cơ cấu xã hội - giai cấp mang tính chất gì?",
+    "options": [
+      "Ngẫu nhiên",
+      "Tính quy luật",
+      "Nhất thời",
+      "Ổn định tuyệt đối"
+    ],
+    "correct": 1,
+    "hint": "Chịu sự tác động tất yếu của quy luật kinh tế."
+  },
+  {
+    "id": 17,
+    "question": "Lực lượng nòng cốt của khối đại đoàn kết toàn dân tộc?",
+    "options": [
+      "Liên minh công-nông-trí",
+      "Các doanh nghiệp lớn",
+      "Các tổ chức tôn giáo",
+      "Kiều bào nước ngoài"
+    ],
+    "correct": 0,
+    "hint": "Là nền tảng chính trị của chế độ ta."
+  },
+  {
+    "id": 18,
+    "question": "Mục tiêu cuối cùng của liên minh giai cấp là gì?",
+    "options": [
+      "Xóa số giai cấp khác",
+      "Xây dựng CNXH và CNCS",
+      "Duy trì khác biệt",
+      "Quyền lực cá nhân"
+    ],
+    "correct": 1,
+    "hint": "Giải phóng con người khỏi mọi áp bức, bóc lột."
+  },
+  {
+    "id": 19,
+    "question": "Tiêu chí chủ yếu phân định cơ cấu xã hội - giai cấp?",
+    "options": [
+      "Huyết thống",
+      "Sở hữu tư liệu sản xuất",
+      "Tôn giáo",
+      "Lứa tuổi"
+    ],
+    "correct": 1,
+    "hint": "Là tiêu chí căn bản nhất theo lý luận Mác-Lênin."
+  },
+  {
+    "id": 20,
+    "question": "Vai trò của đội ngũ doanh nhân ở Việt Nam hiện nay?",
+    "options": [
+      "Lãnh đạo chính trị",
+      "Phát triển kinh tế",
+      "Xóa bỏ công nhân",
+      "Chỉ phục vụ cá nhân"
+    ],
+    "correct": 1,
+    "hint": "Tổ chức sản xuất, đóng góp ngân sách và việc làm."
   }
 ]

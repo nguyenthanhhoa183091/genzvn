@@ -308,7 +308,7 @@ export default function QuizPage() {
                 <div className="flex items-start gap-2">
                   <span className="text-blue-600 text-lg">💡</span>
                   <p className="text-sm text-blue-800 leading-relaxed">
-                    <strong>Gợi ý:</strong> {currentQ.hint}
+                    <strong>Giải thích:</strong> {currentQ.hint}
                   </p>
                 </div>
               </div>
@@ -321,7 +321,7 @@ export default function QuizPage() {
                   onClick={handleShowHint}
                   className="px-6 py-3 bg-yellow-400 text-blue-900 rounded-lg font-bold hover:bg-yellow-300 transition-colors"
                 >
-                  Hiện gợi ý
+                  Hiện giải thích
                 </button>
               )}
               

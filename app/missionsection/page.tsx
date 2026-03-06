@@ -21,6 +21,7 @@ export default function MissionSectionPage() {
             </span>
           </div>
 
+
           {/* Three Missions Grid */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {/* Mission 1 */}

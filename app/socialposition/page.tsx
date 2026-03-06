@@ -61,7 +61,7 @@ export default function MissionSectionPage() {
 
               {/* Dòng 2: Text nhỏ ở dưới - Kích thước giảm xuống xl/base */}
 
-            <span className="text-sm md:text-lg font-medium italic uppercase tracking-[0.3em] text-blue-900/60 px-4 py-1 -mt-1 select-none">
+            <span className="text-sm text-muted-foreground leading-relaxed italic  px-4 py-1 -mt-1 select-none">
 
                   Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, cơ cấu xã hội - giai cấp bao gồm nhiều nhóm cơ bản. Bên cạnh các giai cấp, tầng lớp chủ đạo như công nhân, nông dân, trí thức và doanh nhân
 
