@@ -5,13 +5,14 @@ import React, { useState } from 'react';
 export default function Header() {
   const [isOpen, setIsOpen] = useState(false);
 
-  const navigationItems = [
+const navigationItems = [
     { label: 'TRANG CHỦ', href: '/' },
     { label: 'VỊ TRÍ XÃ HỘI', href: '/socialposition' },
     { label: 'VAI TRÒ LỊCH SỬ', href: '/missionsection' },
     { label: 'PHÁT TRIỂN NHÀ NƯỚC', href: '/developmentSection' },
     { label: 'TỔ CHỨC QUẦN THỂ', href: '/organizationssection' },
-    { label: 'GAME', href: '/games' },
+    // Thay đổi tại đây:
+    { label: 'GAME', href: 'https://cheerful-sunshine-2401d3.netlify.app/' },
   ];
 
   return (
